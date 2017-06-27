@@ -1,0 +1,25 @@
+{"cancel.keywords": [
+    "^(cancel|nevermind|never mind|skip|abort|stop|end)"
+  ],
+  "cancel": [
+    "Cancelled. Anything else I can help you with?",
+    "Cancelled. What else can I do for you?"
+  ],
+  "cancel.confirm.prompt": [
+    "Are you sure you want to cancel?",
+    "Do you want to cancel?"
+  ],
+  "default": [
+    "I am sorry, I don't understand '%s'. Please try something else. Or say 'Show me what you got'"
+  ],
+  "help.keywords": [
+    "^(help|person|agent|representative)"
+  ],
+  "help": [
+    "Hi! Try asking me things like 'Show me what you got'. I am a pretty simple bot"
+  ],
+  "schwifty.keywords":[
+    "^(show me what you got|rick|morty|what)"
+  ]
+  
+}
